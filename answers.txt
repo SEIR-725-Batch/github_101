@@ -1,3 +1,16 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Ismael Gonzalez 
+
+Answers:
+1. Linus Torvalds
+2. Inventing Linux 
+3. April 7 2005 
+4. git init
+5. git push is "pushing" new changes to our repository, a commit is followed to upload the changes online. 
+6. git ignore file allows you to ignore a file you've committed to in the past. 
+7. When you fork it's used to copy the repository and to add your own things. 
+8. Git clone us used to download the repo for your use. Unlimited?
+9.NO!
+10.False, you can type it at any time to see the "git status".
