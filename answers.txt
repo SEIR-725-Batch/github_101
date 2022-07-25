@@ -1,3 +1,16 @@
-Your answers go here!
+Corey Lott
+
+1. Linus Torvalds
+2. Creator of Linux
+3. April 7, 2005
+4. git init
+5. It pushes the code I worked on which is in my local repository and pushes it back to the remote repository.
+6. tells git not to track certain files.
+7. fork allows you to copy a repository. And it allows you to play around with the code without messing with the original.
+8. It creates a copy of a specific repository or branch. Normally you would only need to clone once, but you can have multiple different clones of different repository.
+9. you can have a github repository as a subdirectory of another repository.
+10. yes
+
+
 Please include your name and number your answers.
 ==================================================
