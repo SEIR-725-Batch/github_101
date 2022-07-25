@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1.Linus Torvalds
+2. Linus Torvalds created Linux, which now runs vast swathes of the internet, including Google and Facebook.
+3. 2005
+4. The git init command creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository.
+5. it pushes the commited ready file to repo 
+6. to put the files that it not be commited to the repo
+7. to make the copy of the repo
+8. to coppy the repo on the local machane 
+9. no
+10. true
