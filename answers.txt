@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Mackenzie Lamour
+1. Linus Torvals
+2. Created the Linux kernel and oversaw open source development of the widely-used Linux operating system
+3. 2005
+4. git init
+5.uploading changes from local repo to remote repo
+6. tells git which files to ignore when committing to projects in the github repo 
+7.taking a copy of existing work in git hub
+8.clone of a repo into a new directory. no because the system will not know which one to read
+9. no
+10. true
