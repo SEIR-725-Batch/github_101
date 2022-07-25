@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Sean Buchas
+1. Linus Torvalds
+2. Creating Linux
+3. 2005
+4. git init
+5. git push is taking the cnages you made on your local repository and reflecting them onto the remote repository (github) 
+so that they are the same
+6. A .gitignore file tells git to not track changes for certain directories or files
+7. A fork is taking a copy of a repository so you can edit and change things without changing the originial repository
+8. A clone is a copy of another repository. You can have as many as you want as long as they have different names.
+9. You should not put a repository inside another repository. It can slow down your computer and just makes a big mess
+10. true
