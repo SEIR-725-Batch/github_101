@@ -1,3 +1,22 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1 Linus torvalds
+
+2 creator of linux kernel
+
+3 2005
+
+4 git init
+
+5 moves a content from your local repo to a remote repo, or a repo on your computer to a repo in the cloud, such as github
+
+6 it protects content you don’t want to accidentally push to a public repo
+
+7 a fork makes a branch of a piece of code. It’s so that you don’t edit the master. 
+
+8 a clone is a copy of code that you can then work on locally. You can have unlimited clones as long as they have different names
+
+9. NEVER! 
+
+10 true
