@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
+Aryn Parks
+1. Linus Torvalds
+2. Torvalds also created the Linux kernel and oversaw open source development of the Linux operating system.
+3. 2005
+4. git init
+5. Git push sends the changes you made on your local repository to the global repository and updates the code there.
+6. It prevents you from making private data open to the public
+7. A fork adds a complete copy of code to your personal github account so you can work on it in your local repository without automatically changing the original copy.
+8. A clone copies all the code from the fork in your github account to your computer so you can edit it.
+9. Never ever
+10. True
 ==================================================
