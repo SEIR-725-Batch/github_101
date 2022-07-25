@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Joey Caltabellotta
+1. Linus Torvalds
+2. Linux
+3. 2005
+4. git init
+5. When you upload a local repo to a remote repo
+6. Tells git which files to ignore when committing project to the github repo
+7. Creates a seperate copy of a git repo. Helps open the repo to contributions from any other developer without having to manually managae authorization.
+8. Creates a linked copy that will continue to the target repo. Once
+9. No
+10. True
