@@ -1,3 +1,24 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Alfred Burgess (Jordan)
+
+1. Linus Torvalds invented Git
+
+2. Linus Torvalds also invented Linux kernel
+
+3. Git was invented in 2005
+
+4. Use the command: git init to initialize new repository.
+
+5. git push is used to upload a local repository to the remote repository.
+
+6. .gitignore is used to tell Git which files to ignore when committing your project to Github
+
+7. A git fork is a copy of a repository to your account.
+
+8. A git clone is used to point to an existing repo. 
+
+9. You should never put a github repository inside of another one. 
+
+10. You can use git status at any time in the terminal.
