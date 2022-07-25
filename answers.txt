@@ -1,3 +1,25 @@
 Your answers go here!
 Please include your name and number your answers.
+
+Josh Sparks
+
+1. Linus Torvalds invented git
+
+2. He was the creator and, historically, the lead developer of Linux Kernel
+
+3. April 7, 2005
+
+4. git init
+
+5. git push uploads files from the local repository to the remote repository.
+
+6. gitignore tells git not to track certain files.
+
+7. fork lets you copy someone else's repository to your own.
+
+8. a clone is a copy of an existing repo into a new local directory. You can have unlimited clones.
+
+9. NO!
+
+10. True
 ==================================================
