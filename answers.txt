@@ -9,6 +9,6 @@ Tim Rathert
 5) Sending local changes to the remote repo
 6) Tell git which files to ignore
 7) A fork is your personal copy of a project. useful for local changes
-8) A clone is a copy of the remote repo. Useful for different versions?
+8) A clone is a copy of the remote repo. Useful for different versions? Can only have 1.
 9) no.
 10) True
