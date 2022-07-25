@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+John Paul Haddad 
+1) Linus Torvalds
+2) He developed the Linux  kernel
+3) 2005
+4) git init
+5) Pushes local repository to a remote repository
+6) It ignores files that you wouldnt want shared or are private
+7) Fork creates a copy of a remote repository for you to work on locally. Having a fork helps maintain variant control
+8) Clone is used to copy an existing Git repository into a new local repository. Max 10GB
+9) The person next to me said "no"
+10) True
