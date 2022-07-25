@@ -1,3 +1,15 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Name: Jared Siemen
+
+Answers:
+1. Linus Torvalds
+2. He is the main developer behind Linux.
+3. Initially released in 2005.
+4. git init
+5. Git push takes the changes that you've saved and committed locally and sends them to your remote repository on Github.
+6. A .gitignore file tells git which files and directories to ignore when staging and committing. This way you don't push sensitive information to the internet that shouldn't be out there, or to ignore large files.
+7. A fork creates a copy of the repository that is completely independent of the original repo. You would want to do this to make changes to code without changing any of the code in the original repo.
+8. A clone creates a local copy of the repository this is linked to the remote repo it was cloned from. You can then make changes and push the changes back up to that repo. You can have as many clones as you want.
