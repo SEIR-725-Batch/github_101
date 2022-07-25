@@ -1,3 +1,34 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+## Quiz Questions
+
+#### 1. Who invented Git?
+Linus Torvalds
+
+#### 2. What else is the person who invented Git famous for?
+Junio Hamano
+
+#### 3. What year was Git invented?
+2005
+
+#### 4. What is the git command to initialize a new repository?
+git init
+
+#### 5. In your own words, describe what the command `git push` is doing.
+Git push upload the files that you have worked on onto Github.
+
+#### 6. What is the purpose of a `.gitignore` file?
+gitignore ignores files or folders in a project
+
+#### 7. What is a fork? Why would you want to have a fork?
+Forking is copying the repository from Github.  You fork to bring a project from a repo to work on your text editor  
+
+#### 8. What is a clone? How many clones can you have?
+A clone is a copy of the project on your local repo.  There can be multiple clones.
+
+#### 9. Should you put a Github repository inside of another Github repository?
+No nesting a repo into itself will make the computer work slowly.
+
+#### 10. You can type `git status` at any time while in a git repository - true or false?
+true
