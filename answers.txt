@@ -1,3 +1,32 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+ERIK PEDERSEN (SEIR725)
+
+Quiz Questions
+1Q. Who invented Git?
+1A. A Finnish feller named Linus Benedict Torvalds.
+
+2Q. What else is the person who invented Git famous for?
+2A. Torvalds also created software called "Subsurface", which is used for scuba dive logging and planning. Wild.
+
+3Q. What year was Git invented?
+3A. The Year of Our Lord 2005.
+
+4Q. What is the git command to initialize a new repository?
+4A. "git init"
+
+5Q. In your own words, describe what the command "git push" is doing.
+5A. The "git push" command uploads your local git repository to a remote repository.
+
+6Q. What is the purpose of a ".gitignore" file?
+6A. ".gitignore" tells git which files it should ignore.
+
+7Q. What is a fork? Why would you want to have a fork?
+7A. A fork is just a copy of a repository; you can use it to play with/edit someone else's code without damaging the original files.
+
+8Q. What is a clone? How many clones can you have?
+8A. A clone is a copy of a repository that you can edit locally. You can have...infinite clones?
+
+9Q. Should you put a Github repository inside of another Github respository?
+9A. No way, man!
+
+10Q. You can type "git status" at any time while in a git repository - true or false?
+10A. True
