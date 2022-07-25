@@ -1,3 +1,13 @@
 Your answers go here!
+1. Linus Torvalds
+2. devleoped Linux
+3. 2005
+4. git innit
+5. pushes local branch to remote branch
+6. git ignores it so it doenst get pushed
+7. creates a local copy so you're not working in a remote repo
+8. clone is a copy of the remote repo on your local machiene, there can only be one
+9. no
+10. true
 Please include your name and number your answers.
 ==================================================
