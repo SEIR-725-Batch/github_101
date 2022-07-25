@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Shahryar Abbasi
+1. Linus Torvalds
+2. Main developer of the Linux Kernel
+3. 2005
+4. git init
+5. git push is sending your changes back to the cloud repository
+6. It tells git to not keep track of certain files
+7. Fork means you copy someboy's repo into your account.
+8. clone is a copy of a repository, you can have as many as you like.
+9. You should not, it would complicate and slow things down.
+10. True.
