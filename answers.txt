@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Hazel Rahbe
+1. Linus Trovalds
+2. The Linus operating System
+3. 2005
+4. git init
+5. uploading local repo to remote repo
+6. telling Git which files to ignore in a project
+7. copying a repo (can edit without impacting the parent repo)
+8. getting a full copy (all version)
+9. No
+10.Yes
