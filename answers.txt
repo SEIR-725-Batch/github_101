@@ -1,3 +1,16 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+Phil Berdecio
+
+1. Linus Torvalds invented Git.
+2. Torvalds is also famous for creating Linux.
+3. Git was invented in 2005.
+4. The comand that initializes a new repository is git init.
+5. git push pushes changes from your local git repository to a remote git repository.
+6. A .gitignore file tells git what not to track, either for security purposes or to exclude large files that don't need to be tracked.
+7. A fork is an independent copy of a Git repository. It allows you to make your own changes without affecting the original repository.
+8. A Git clone is a linked copy of a repository that you can synchronize with the repository that was cloned.
+9. You should not put a Github repository inside of another Github repository.
+10. true
