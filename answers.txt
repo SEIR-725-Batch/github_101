@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Name: Chloe Wigsten 
+1. Linus Torvalds
+2. Created the Linux kernal 
+3. 17 years ago, 2005
+4. git init 
+5. git push is moving the files from your localized repository to the global repository. 
+6. To make sure that files not tracked by Git remain untracked. 
+7. A fork is a branch off the original code, which you would want to have to keep your code separate from the original in case of error. 
+8. A clone is a localized copy of the code. Infinite number of clones can be created. 
+9. You can do it but its not recommended. 
+10. Yes. 
