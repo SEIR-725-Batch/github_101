@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. Created Linux
+3. 2005
+4. git init
+5. git push sends our changes from our local computer back up to our fork of a repository on our GitHub account.
+6. gitignore tells git not to track certain files. 
+7. Fork makes a copy of all the code and adds all the commits will be added to my GitHub account.
+8. Cloning means all of the code in my GitHub repository will be copied onto my computer.
+9. No
+10. True
