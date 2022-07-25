@@ -1,3 +1,10 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+Linus Torvalds
+Main developer of Linux kernel
+2005
+git init
+Exporting your local changes to the changes of the master branch
+It tells git to not track certain files
+A fork is a cloning operation which makes  a copy of a project's repository. It's crucial to have so that your changes are made on a local version not the public version.
+A git clone is an exact copy of all files and changes in a git repository. You can have as many clones as you want, but it will make your computer slow if all the branches have the same name.
+No, don't do that
+True
