@@ -1,3 +1,14 @@
 Your answers go here!
+David Robles
+1. Linus Torvalds
+2. development of the Linux kernel
+3. 2005
+4. git init
+5. uploads the local repository to a remote repository like github
+6. tells Git which files to ignore when committing your project to the GitHub repository
+7. makes a copy of someone elses work so that you can edit it on your local machine
+8. Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository. 
+9. for subdirectories. submodules allow you to keep a Git repository as a subdirectory of another Git repository.
+10. true but it wont always do anything. if theres not git file it will read "not a git repository (or any of the parent directories)"
 Please include your name and number your answers.
 ==================================================
