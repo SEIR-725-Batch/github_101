@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Kingsley Le
+1. Linus Torvalds
+2. Also created Linux
+3. 2005
+4. git init
+5. Pushes the changes from a local repository to a remote one
+6. Tells git not to track certain files
+7. A complete copy of the code 
+8. A copy of the original in a different location 
+9. No you should not 
+10. True 
