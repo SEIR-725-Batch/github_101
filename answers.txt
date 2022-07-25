@@ -1,3 +1,13 @@
-Your answers go here!
+Steven Calhoun
+1. Linus Torvolds
+2. Creating Linux
+3. 2005
+4. git init
+5. git push will send the committed files to the remote repository (sync changes from your machine to the cloud)
+6. A git ignore file prevents unwanted files and sensitive information from being uploaded or made publicly accessible.
+7. A fork makes a copy of the code from someone else's remote repository to your remote repository so that you can make edits and test things without messing up their code.
+8. A clone is a local copy of your remote repository. You can make as many clones as you want (an army perhaps).
+9. No. Do not do that. This hurts the github.
+10. True.
 Please include your name and number your answers.
 ==================================================
