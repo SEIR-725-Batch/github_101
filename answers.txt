@@ -1,3 +1,15 @@
-Your answers go here!
+Audriana Evans
+1. Linus Torvalds invented Git
+2. Linus T. was also famous for creating the Linux kernel
+3. Git was invented in 2005
+4. Git command to initialize a new repository is "git init"
+5. git push transfers your current repository to another repository.
+6. .gitignore tells git not to track certain files
+7. A fork is you're own personal copy of a repository 
+8. A clone is a copy of the repository and you can only have 1
+9. You should never put a github repo inside of another github repo
+10. true you can type github while in git repo
+
+
 Please include your name and number your answers.
 ==================================================
