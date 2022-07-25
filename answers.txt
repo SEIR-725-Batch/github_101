@@ -1,3 +1,16 @@
 Your answers go here!
+
+Samantha Nay
+
+1. Linus Torvolds
+2. Devleoping Linux
+3. 2005
+4. git init
+5. Saving the changes you have made once they have been committed to gitHub.
+6. A .gitignore file is for information that does not need to be public on the internet.
+7. A fork is a copy of someone elses work that you can work on.
+8. A clone is the the fork that is "cloned" to your local machine. 
+9. No, never.
+10. True
 Please include your name and number your answers.
 ==================================================
