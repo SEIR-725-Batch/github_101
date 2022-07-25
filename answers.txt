@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. the Linux Operating System
+3. 2005
+4. git init
+5. it is used to transfer your commit from the local repository into the remote repository
+6. to avoid committing unnecessary files or recommitting past files
+7. A fork makes a copy of a repo, so that you can make your own edits to it
+8. The git clone command is used to create a copy of a specific repository or branch within a repository. You can have as many as you need.
+9. No you should not.
+10. True
