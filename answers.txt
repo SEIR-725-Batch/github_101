@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Kyle Babcock
+1. Linus Torvalds
+2. Creating Linux
+3. 2005
+4. git init
+5. It adds files to your git hub.
+6. It tells git which files to ignore when commiting your project to GitHub
+7. A fork is a copy of a GitHub file that you can download onto your own terminal.
+8. A clone is a copy of a GitHub file on your termila that you can edit.
+9. No. Never.
+10. True
