@@ -1,3 +1,36 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Name: John Nam
+
+1. Who invented Git?
+Linus Torvalds
+
+2. What else is the person who invented Git famous for?
+Invented Linux kernel and oversaw the open source development of the widely-used Linus operating system.
+
+3. What year was Git invented?
+2005
+
+4. What is the git command to initialize a new repository?
+git init
+
+5. In your own words, describe what the command git push is doing.
+Pushing the changes that user made onto the Github
+
+6. What is the purpose of a .gitignore file?
+To ensure that certain files not tracked by Git remain untracked
+
+7. What is a fork? Why would you want to have a fork?
+Fork is git clone operation to server copy the projects repo.
+So you can create a separate directory that you can work on before "pushing" all the changes
+
+8. What is a clone? How many clones can you have?
+a copy of a sepcific repository or branch within a repository
+repositories have a hard size limit of 100GB
+
+9. Should you put a Github repository inside of another Github repository?
+Yes, by the use of submodules
+
+10. You can type git status at any time while in a git repository - true or false?
+True
