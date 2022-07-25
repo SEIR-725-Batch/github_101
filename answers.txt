@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Heather Rigg
+1. Linus Torvalds
+2. He is also famous for creating Linux
+3. 2005
+4. git init
+5. git push moves the repo from local to remote
+6. gitignore asks git not to track certain files
+7. A fork is your own copy of the repo that you can change without changing the original
+8. A clone gets the repo to your local directory
+9. NO you should not
+10. true i think
