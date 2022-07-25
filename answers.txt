@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+1. Linus Torvalds
+2. Developing Linux
+3. 2005
+4. git init
+5. git push saves the repo onto the github remote server
+6. .gitignore tells git not to track certain files
+7. A fork is a copy that now exists separately from the original repo that you copied (or forked) from. To have your own copy to which you can modify.
+8. A clone is a copy of the repo you forked. One clone per directory.
+9. Never. Nevar. Not ever.
+10. True
