@@ -1,3 +1,16 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+#1 Git for developers!
+
+#2 Branch Workflow - Git branches are cheap and easy to merge
+
+#3 Community - version control system for new projects.
+
+#4 Git for anyone managing a budget - For developers, it eliminates everything 
+from the time wasted passing commits over a network connection to the man hours 
+required
+
+#5 Faster Release Cycle - The ultimate result of feature branches, 
+distributed development, pull requests, and a stable community is a faster 
+release cycle.
