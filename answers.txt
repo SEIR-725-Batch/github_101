@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. The development of Linux kernel
+3. Git was invented in 2005
+4. git init
+5. git push is sending a copy of your code from your local machine to remote respository
+6. It ensures sensitive data is not pushed to remote respository
+7. A fork is a copy of a repository that you manage.  Forks let you make changes to a project without affecting the original repository.
+8. Cloning is making a copy a repository from GitHub.com to your local machine. You can have as many clones as you want
+9. No, you should never put a github repository inside of another.
+10. True
