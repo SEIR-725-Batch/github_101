@@ -1,3 +1,43 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+V. CADIZ
+
+Quiz Questions 
+
+1. Who invented Git?
+        Linus Torvalds created Git. 
+
+2. What else is the person who invented Git famous for?
+        Linux Torvalds is also the creator of Linux.
+
+3. What year was Git invented?
+        2005
+
+4. What is the git command to initialize a new repository?
+        git init 
+
+5. In your own words, describe what the command `git push` is doing.
+        The command `git push` is essentially PUSHING and updating whatever is 
+        edited and changed on your local repository such as your computer to 
+        a remote repository/server like Github.
+
+6. What is the purpose of a `.gitignore` file?
+        The purpose of a `.gitignore` is to ignore certain files (personal files, 
+        hidden files, temporary files) from being tracked or shared across others. 
+
+7. What is a fork? Why would you want to have a fork?
+        A fork is a copy of an existing repository that someone had already made. 
+        Forking allows people to take that copy of the original repository and manage
+        it themselves to make changes to a project without affecting the orignal repo.
+
+8. What is a clone? How many clones can you have?
+        A clone is making an identical copy of the original remote repo to
+        your local computer for you to make changes to. 
+
+9. Should you put a Github repository inside of another Github repository?
+        It's possible to put a Github repository inside of another. It is basically
+        considered as making a subdirectory or submodule. However, it is not recommended. 
+
+10. You can type `git status` at any time while in a git repository - true or false
+        True
