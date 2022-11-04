@@ -1,3 +1,13 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+Patrick Russo -- EC -- The Booleans
+
+1- Linus Torvalds
+2- Linux operating system
+3- 2005
+4- get init
+5- It uploads a local repository to a remote repository.
+6- A fork is a copy of a repository that I will manage. Having a fork is good because I can make changes to my repository without effecting the original.
+7- 
+8-
+9- NOO!!!
+10- True
+
